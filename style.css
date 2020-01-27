@@ -15,7 +15,8 @@ color: yellow;
 }
 
 div{
-  border-style: ;
-  padding:5px;
+  border-style: solid;
+  padding:3px;
   border-width: 5px
 }
+
